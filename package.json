@@ -8,8 +8,8 @@
   },
   "author": "",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
-    "color": "^4.2.3",
     "colors": "^1.4.0"
   }
 }
